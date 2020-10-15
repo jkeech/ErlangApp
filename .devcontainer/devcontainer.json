@@ -1,4 +1,3 @@
 {
-  "dockerFile": "Dockerfile",
-  "extensions": ["pgourlain.erlang"]
+  "extensions": ["ms-python.python"]
 }
